@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+
+#container{
+    background-color: white;
+    border: 1px solid black;
+    width: 510px;
+    padding: 50px;
+    margin: 0 auto;
+}
+
+#resultado{
+    margin-top: 20px;
+    font: normal 15pt Arial;
+    color: red;
+}
+input{
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 150px;
+    text-align: center;
+   
+}
+
+h2{
+font-size: 40px;
+text-align: center; 
+}
+label{
+    font-size: 22px;
+}
